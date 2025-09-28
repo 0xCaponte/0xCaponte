@@ -20,7 +20,7 @@
 - 💬 Ask me about: **Java, SpringBoot, SvelteKit, Digitalization, Soft-Skills**
 - 📂 Portfolio: **<a href="caponte.io" target="_blank">caponte.io</a>**
 - 📝 Blog: **<a href="caponte.io/blog" target="_blank">caponte.io/blog</a>**
-- ⚡ Fun fact: **I can communicate with 24% of the world's population in 111 countries! Info courtesy of: <a href="languagemap.world" target="_blank">The Language Map</a>**
+- ⚡ Fun fact: **I can communicate with 24% of the world's population in 111 countries! Info courtesy of: <a href="https://languagemap.world" target="_blank">The Language Map</a>**
 
 
  <h3 align="left">Tech Skills</h3>
